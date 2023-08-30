@@ -1,0 +1,11 @@
+ClientID,ClientName,Budget,Expenses,Revenue,Profit,FinancialAdvisor
+101,Acme Corp,50000,30000,65000,35000,Alice Johnson
+102,Beta Inc,75000,50000,90000,40000,Bob Smith
+103,Charlie LLC,60000,45000,80000,35000,Carol White
+104,Delta Co,85000,70000,110000,40000,Dave Brown
+105,Echo Ltd,95000,85000,120000,35000,Eve Green
+106,Foxtrot Enterprises,70000,65000,100000,35000,Frank Black
+107,Golf Corp,80000,75000,105000,30000,Grace Blue
+108,Hotel Inc,90000,85000,115000,30000,Hank Yellow
+109,India LLC,95000,90000,125000,35000,Ivy Red
+110,Juliet Co,99000,94000,130000,36000,Jack Violet
