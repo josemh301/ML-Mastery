@@ -89,6 +89,24 @@
             "Revenue": 130000,
             "Profit": 36000,
             "FinancialAdvisor": "Jack Violet"
+        },
+        {
+            "ClientID": 111,
+            "ClientName": "Orange Mango",
+            "Budget": 92000,
+            "Expenses": 84000,
+            "Revenue": 143000,
+            "Profit": 41000,
+            "FinancialAdvisor": "Frank Black"
+        },
+        {
+            "ClientID": 112,
+            "ClientName": "Yellow Apple",
+            "Budget": 90000,
+            "Expenses": 84500,
+            "Revenue": 73000,
+            "Profit": 49000,
+            "FinancialAdvisor": "Hank Yellow"
         }
     ]
 }
