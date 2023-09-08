@@ -4,8 +4,8 @@
             "ClientID": 101,
             "ClientName": "Acme Corp",
             "Budget": 50000,
-            "Expenses": 30000,
-            "Revenue": 65000,
+            "Expenses": 90000,
+            "Revenue": 5000,
             "Profit": 35000,
             "FinancialAdvisor": "Alice Johnson"
         },
@@ -49,7 +49,7 @@
             "ClientID": 106,
             "ClientName": "Foxtrot Enterprises",
             "Budget": 70000,
-            "Expenses": 65000,
+            "Expenses": 105000,
             "Revenue": 100000,
             "Profit": 35000,
             "FinancialAdvisor": "Frank Black"
