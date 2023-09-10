@@ -2,6 +2,13 @@
 
 Welcome to my learning journey in the realm of Machine Learning. "Road to ML Mastery" chronicles my transformative journey from Python's foundational concepts to mastering advanced Machine Learning frameworks. As I venture deeper into the world of ML, this repository serves as a testament to my dedication, progress, and skills. It's meticulously crafted to showcase my expertise in **TensorFlow**, TF-Serving, JAX, and XLA/MLIR, building upon a foundational understanding of Python.
 
+---  
+#### Libraries used  
+`matplotlib`
+`json`
+
+---
+
 ## Purpose
 
 This repository is a reflection of my commitment to excellence in the multifaceted world of Machine Learning. It's designed to provide future recruiters, peers, and collaborators with a comprehensive view of my capabilities and growth in this domain. Whether you're a recruiter assessing my skills, a peer looking for collaboration, or an enthusiast seeking inspiration, I invite you to explore my journey.
