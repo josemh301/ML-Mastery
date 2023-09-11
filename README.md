@@ -4,8 +4,10 @@ Welcome to my learning journey in the realm of Machine Learning. "Road to ML Mas
 
 ---  
 #### Libraries used  
-`matplotlib`
 `json`
+`matplotlib`
+`numpy`
+`sklearn`
 
 ---
 
