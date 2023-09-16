@@ -37,7 +37,7 @@ Before diving into ML frameworks, ensure you're comfortable with advanced Python
 - List comprehensions
 - Lambda functions
 - Modules and Packages
-- File handling
+- File handling: `json`, `csv` and `xlsx`
 - Exception handling
 - Object-Oriented Programming (OOP)
 
