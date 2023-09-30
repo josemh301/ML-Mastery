@@ -46,6 +46,8 @@ Before diving into ML frameworks, ensure you're comfortable with advanced Python
 ## 2. Introduction to Machine Learning
 ### Concepts
 - Arrays
+- Loss
+- Loss reduction
 - Supervised vs. Unsupervised Learning
 - Regression vs. Classification
 - Overfitting, Underfitting
