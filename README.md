@@ -10,12 +10,14 @@ This repository is a reflection of my commitment to excellence in the multifacet
 #### Libraries used  
 `csv`
 `json`
+`keras`
 `matplotlib`
 `numpy`
 `openpyxl`
 `pandas`
 `seaborn`
 `sklearn`
+`tensorflow`
 
 ---
 
